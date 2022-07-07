@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Structure.
+- This application is a simple demonstration of the basics of Angular and how data flows within our apps. We will create pipes, render static files with Http Request and loop through static images with data from the Http Request, ... and so much more.
+
